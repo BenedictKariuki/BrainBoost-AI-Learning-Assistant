@@ -1,0 +1,17 @@
+# Dependencies
+frontend/node_modules/
+backend/node_modules/
+frontend/ai-learning-assistant/node_modules/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# Upload files
+backend/uploads/
+# Build outputs
+frontend/dist/
+backend/dist/
+
+# Logs
+*.log
